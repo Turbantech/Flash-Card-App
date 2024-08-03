@@ -1,1 +1,2 @@
 # Flash-Card-App
+This is a Flash Card App which will help you in learning the most common 100 arabic words in a simple manner. First an arabic word will be shown to you and after 5 seconds its meaning will aslo be shown to you. I foyu know the word simply click the green button. Otherwise click the red button and the word will be stored in a separate file which you can later use to learn that word.
